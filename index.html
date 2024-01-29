@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Фотогалерея</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="photo_container"></div>
+
+    <!-- Модальне вікно для каруселі -->
+    <div id="carouselModal" class="modal">
+        <span id="closeModal" class="close">&times;</span>
+        <img class="modal-content" id="modalImage">
+        <p id="modalDescription" class="modal_description"></p>
+        <a class="prev" onclick="moveSlide(-1)">&#10094;</a>
+        <a class="next" onclick="moveSlide(1)">&#10095;</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
