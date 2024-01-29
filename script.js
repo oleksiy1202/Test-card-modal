@@ -6,7 +6,7 @@ let photo_array = [
     },
     {
         url: "https://images.unsplash.com/photo-1706479552865-c24007563e39?q=80&w=1530&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        description: "cghusbfhnxluwkcahg hakjvnclkMCDlDK:nsfvsdl k;cmlSDv knlzdfjvbnk lxdnvklf nvjkbdzhlv m/dSK /c.dfnxkvnk/m.agvs rvdhvcgjgjvskthl nsuchvtci;asio lvynrterc mjcsecdDLzx/f .nkfhg v.kn bkx.k/flm cghusbfhnxluwkcahg hakjvnclkMCDlDK:nsfvsdl k;cmlSDv knlzdfjvbnk lxdnvklf nvjkbdzhlv m/dSK /c.dfnxkvnk/m.agvs rvdhvcgjgjvskthl nsuchvtci;asio lvynrterc mjcsecdDLzx/f .nkfhg v.kn bkx.k/flm cghusbfhnxluwkcahg hakjvnclkMCDlDK:nsfvsdl k;cmlSDv knlzdfjvbnk lxdnvklf nvjkbdzhlv m/dSK /c.dfnxkvnk/m.agvs rvdhvcgjgjvskthl nsuchvtci;asio lvynrterc mjcsecdDLzx/f .nkfhg v.kn bkx.k/flm cghusbfhnxluwkcahg hakjvnclkMCDlDK:nsfvsdl k;cmlSDv knlzdfjvbnk lxdnvklf nvjkbdzhlv m/dSK /c.dfnxkvnk/m.agvs rvdhvcgjgjvskthl nsuchvtci;asio lvynrterc mjcsecdDLzx/f .nkfhg v.kn bkx.k/flm        "
+        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa, quia eum a temporibus architecto maiores, nam suscipit sed, officiis similique eaque animi aliquid tenetur qui perspiciatis? Ullam ut at illum."
     },
     {
         url: "https://images.unsplash.com/photo-1706459006208-6c7ea1a5cfe8?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
